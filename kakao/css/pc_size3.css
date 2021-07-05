@@ -1,0 +1,5 @@
+#gnb_pc > #nav { width: 100%; display: flex; justify-content: space-around;} 
+
+#gnb_pc > #nav > li{
+    margin: 0;
+}
